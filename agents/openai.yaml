@@ -1,0 +1,4 @@
+interface:
+  default_prompt: "Use $z-website-analysis for the requested ZedBiz workflow."
+  display_name: "Z Website Analysis"
+  short_description: "Help with Z Website Analysis tasks"
