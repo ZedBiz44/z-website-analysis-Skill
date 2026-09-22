@@ -1,5 +1,5 @@
 # Website Skill Contract
-Version: 1.0.0
+Version: 1.0.1
 Maintained source: z-website-production-Skill/references/website-contract.md.
 Release packages carry identical versioned copies. Read this file locally; no companion installation or Notion access is required.
 
@@ -40,6 +40,12 @@ Stop for a material access gap, unapproved cost/release, new material scope issu
 Preserve approved facts, offers, identity and assets. Do not fabricate customers, staff, endorsements or testimonials. Approved fictional characters may appear when the brief calls for them, without pretending they are real customers.
 For ZedBiz marketing use natural, outcome-led language and avoid unsolicited beginner labels; follow the actual client brief. Proposed copy is a recommended draft until approved.
 GitHub owns technical source/tests/history; Notion owns operating decisions; native projects/media stay in confirmed project locations. Do not invent a storage system or copy full plans into memory.
-Use platform/browser/graphic/video skills for their own jobs. This contract grants no tools, credentials, launch authority or recurring service.
+Call these existing ZedBiz skills by name when the job matches. Do not rebuild them here.
+- Live WordPress care: wp-autocare-skill
+- WordPress through the approved connection: z-wordpress-mcp
+- Blocked, paywalled, or bot-walled pages: blocked-page-recovery
+- Still graphics, logos, and ads: z-creative-asset-critique
+- Video understanding or creative review: z-video-analysis or z-video-critique
+This contract grants no tools, credentials, launch authority or recurring service.
 Use basic SEO and answer-ready content; do not add "AI" files or markup automatically. Advanced SEO, large migrations, formal accessibility/security audits and complex commerce are separate scopes.
 For meaningful improvements record baseline, one success signal, owner and review point. Without analytics, use an observed task test or say business impact unmeasured; do not install tracking.
